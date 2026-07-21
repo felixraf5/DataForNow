@@ -1,2 +1,2 @@
 # DataForNow
-DataForNow project in order to develop skills in deterministic and probabilistic linkage record, by UNO.
+DataForNow project documents in order to develop skills in deterministic and probabilistic linkage record, by UNO.
